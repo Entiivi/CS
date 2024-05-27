@@ -1,0 +1,21 @@
+C:\Users\User\Desktop\2PROG-Prak\2 Praktinis Informacijos saugumas\bin\Debug\2 Praktinis Informacijos saugumas.exe.config
+C:\Users\User\Desktop\2PROG-Prak\2 Praktinis Informacijos saugumas\bin\Debug\2 Praktinis Informacijos saugumas.exe
+C:\Users\User\Desktop\2PROG-Prak\2 Praktinis Informacijos saugumas\bin\Debug\2 Praktinis Informacijos saugumas.pdb
+C:\Users\User\Desktop\2PROG-Prak\2 Praktinis Informacijos saugumas\obj\Debug\2 Praktinis Informacijos saugumas.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\2PROG-Prak\2 Praktinis Informacijos saugumas\obj\Debug\_2_Praktinis_Informacijos_saugumas.Form1.resources
+C:\Users\User\Desktop\2PROG-Prak\2 Praktinis Informacijos saugumas\obj\Debug\_2_Praktinis_Informacijos_saugumas.Properties.Resources.resources
+C:\Users\User\Desktop\2PROG-Prak\2 Praktinis Informacijos saugumas\obj\Debug\2 Praktinis Informacijos saugumas.csproj.GenerateResource.cache
+C:\Users\User\Desktop\2PROG-Prak\2 Praktinis Informacijos saugumas\obj\Debug\2 Praktinis Informacijos saugumas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\2PROG-Prak\2 Praktinis Informacijos saugumas\obj\Debug\2 Praktinis Informacijos saugumas.exe
+C:\Users\User\Desktop\2PROG-Prak\2 Praktinis Informacijos saugumas\obj\Debug\2 Praktinis Informacijos saugumas.pdb
+C:\Users\s047792\Downloads\Praktinis 2\2 Praktinis Informacijos saugumas\bin\Debug\2 Praktinis Informacijos saugumas.exe.config
+C:\Users\s047792\Downloads\Praktinis 2\2 Praktinis Informacijos saugumas\bin\Debug\2 Praktinis Informacijos saugumas.exe
+C:\Users\s047792\Downloads\Praktinis 2\2 Praktinis Informacijos saugumas\bin\Debug\2 Praktinis Informacijos saugumas.pdb
+C:\Users\s047792\Downloads\Praktinis 2\2 Praktinis Informacijos saugumas\obj\Debug\2 Praktinis Informacijos saugumas.csproj.AssemblyReference.cache
+C:\Users\s047792\Downloads\Praktinis 2\2 Praktinis Informacijos saugumas\obj\Debug\2 Praktinis Informacijos saugumas.csproj.SuggestedBindingRedirects.cache
+C:\Users\s047792\Downloads\Praktinis 2\2 Praktinis Informacijos saugumas\obj\Debug\_2_Praktinis_Informacijos_saugumas.Form1.resources
+C:\Users\s047792\Downloads\Praktinis 2\2 Praktinis Informacijos saugumas\obj\Debug\_2_Praktinis_Informacijos_saugumas.Properties.Resources.resources
+C:\Users\s047792\Downloads\Praktinis 2\2 Praktinis Informacijos saugumas\obj\Debug\2 Praktinis Informacijos saugumas.csproj.GenerateResource.cache
+C:\Users\s047792\Downloads\Praktinis 2\2 Praktinis Informacijos saugumas\obj\Debug\2 Praktinis Informacijos saugumas.csproj.CoreCompileInputs.cache
+C:\Users\s047792\Downloads\Praktinis 2\2 Praktinis Informacijos saugumas\obj\Debug\2 Praktinis Informacijos saugumas.exe
+C:\Users\s047792\Downloads\Praktinis 2\2 Praktinis Informacijos saugumas\obj\Debug\2 Praktinis Informacijos saugumas.pdb
