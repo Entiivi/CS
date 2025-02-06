@@ -1,1 +1,1 @@
-Kibernetikos saugumo darbai 1-5 
+Informacijos saugumo darbai 1-5 
